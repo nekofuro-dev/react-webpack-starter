@@ -4,6 +4,7 @@
 + typescript
 + eslint
 + tailwindcss
++ react-router
 
 Empty project.
 
