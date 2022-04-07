@@ -1,4 +1,9 @@
-# ytag
+# react-webpack-starter
+
++ webpack
++ typescript
++ eslint
++ tailwindcss
 
 Empty project.
 
