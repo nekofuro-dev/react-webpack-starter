@@ -1,22 +1,11 @@
-import * as React from "react";
-import { hot } from "react-hot-loader/root";
-import { Outlet } from "react-router-dom";
+import * as React from 'react';
+import { hot } from 'react-hot-loader/root';
+import Dummy from '@/components/dummy';
 
-/**
- *
- * @returns main layout (include top nav)
- */
 function App() {
-    return (
-        <>
-            <div id="page-root" className="text-lg">
-                {/* page layout (e.g. navBar) */}
-
-                {/* main content container */}
-                <Outlet />
-            </div>
-        </>
-    );
+  return (
+    <div><Dummy /></div>
+  );
 }
 
 export default hot(App);

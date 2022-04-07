@@ -1,4 +1,4 @@
-# inflist
+# ytag
 
 Empty project.
 
